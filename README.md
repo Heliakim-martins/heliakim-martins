@@ -1,4 +1,13 @@
-## Hi there 👋
+
+## Heliakim 👋
+# 👩🏻‍💻 Heliakim Martins
+
+**`Estudando`**
+
+Me chamo Heliakim Martins, tenho 36 anos e sou de Minas Gerais.
+Concluí o ensino médio, e atuamente estou fazendo um curso. 
+
+---
 
 <!--
 **Heliakim-martins/heliakim-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
