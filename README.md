@@ -4,8 +4,7 @@
 
 **`Estudando`**
 
-Me chamo Heliakim Martins, tenho 36 anos e sou de Minas Gerais.
-Concluí o ensino médio, e atuamente estou fazendo um curso. 
+
 
 ---
 
